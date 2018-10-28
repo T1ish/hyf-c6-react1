@@ -1,0 +1,21 @@
+[
+    {
+        "todo": 
+        { "description": "Get out of bed", 
+            "deadline": "Wed Sep 13 2017"
+        }
+    }, 
+    {
+        "todo": 
+        { "description": "Brush teeth", 
+            "deadline": "Thu Sep 14 2017"
+        }
+    }, 
+    {
+        "todo": 
+        { 
+            "description": "Eat breakfast2", 
+            "deadline": "Fri Sep 15 2017"
+        }
+    }    
+]
